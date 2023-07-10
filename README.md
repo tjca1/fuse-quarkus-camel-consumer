@@ -1,0 +1,1 @@
+# fuse-quarkus-camel-consumer
